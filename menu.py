@@ -5,6 +5,7 @@ from pygame import mixer
 #class untuk menampilkan menu
 class Menu():
     def __init__ (self, gambar, x, y, W, H, animasi = 10):
+        pygame.mixer.init()
         self.width_M , self.height_M = W , H
         self.image_original = pygame.transform.scale(gambar, (self.width_M, self.height_M))
         self.image_elevation = pygame.transform.scale(gambar, (120, 120))

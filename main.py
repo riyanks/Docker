@@ -8,6 +8,7 @@ pygame.font.init()
 class Game(): 
     def  __init__ (self):
         pygame.init()
+        pygame.mixer.init()
         self.width , self.height = 800 , 500 #lebar jendela window
         self.window = pygame.display.set_mode((self.width, self.height))
         pygame.display.set_caption("1v1 Bang-Bang") #judul window
