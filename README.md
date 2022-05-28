@@ -14,7 +14,7 @@ Game = 1 vs 1 Bang-Bang
 # Docker
 
 
-Put your pygame scripts on ~/Downloads
+Buat directory baru bernama "Pygame" dan letak file cloningan ini ke dalam directory
 
 Build
 
