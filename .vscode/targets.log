@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Fri May 27 16:45:50 2022
+# Make data base, printed on Sat May 28 22:09:51 2022
 
 # Variables
 
@@ -25,7 +25,7 @@ VBOX_MSI_INSTALL_PATH = C:\Program Files\Oracle\VirtualBox\
 # environment
 LOCALAPPDATA = C:\Users\Riyan Khoiri Siregar\AppData\Local
 # environment
-VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-0123248a-6f83-460c-b3f9-b7fc30c7dc69-sock
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-1077930b-3e61-4033-aa3c-3c48ce78bdf3-sock
 # environment
 VSCODE_CWD = C:\Users\Riyan Khoiri Siregar\AppData\Local\Programs\Microsoft VS Code
 # environment
@@ -39,7 +39,7 @@ MAKE_COMMAND := make.exe
 # automatic
 @D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_16644_JANDOPVYGSJDDOOK
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_9656_BHDQTJETRYNYRCQD
 # environment
 FPS_BROWSER_USER_PROFILE_STRING = Default
 # environment
@@ -73,7 +73,7 @@ CURDIR := c:/Users/Riyan Khoiri Siregar/Documents/Docker
 # environment
 VSCODE_PIPE_LOGGING = true
 # environment
-APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
 # automatic
 *D = $(patsubst %/,%,$(patsubst %\,%,$(dir $*)))
 # environment
@@ -93,7 +93,7 @@ MAKEFILE_LIST := Makefile
 # environment
 VSCODE_VERBOSE_LOGGING = true
 # environment
-VSCODE_PID = 16644
+VSCODE_PID = 9656
 # automatic
 ?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
 # automatic
@@ -211,9 +211,9 @@ PROCESSOR_IDENTIFIER = AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD
 
 # Directories
 
-# . (key c:/Users/Riyan Khoiri Siregar/Documents/Docker, mtime 1653644654): 12 files, no impossibilities.
+# . (key c:/Users/Riyan Khoiri Siregar/Documents/Docker, mtime 1653651084): 13 files, no impossibilities.
 
-# 12 files, no impossibilities in 1 directories.
+# 13 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -252,7 +252,7 @@ run-linux: xhost
 # Not a target:
 Makefile:
 #  Implicit rule search has been done.
-#  Last modified 2022-05-27 16:44:17
+#  Last modified 2022-05-27 18:37:06
 #  File has been updated.
 #  Successfully updated.
 
@@ -304,12 +304,12 @@ build:
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 1 (0) / strings = 20 / storage = 154 B / avg = 7 B
-# current buf: size = 8162 B / used = 154 B / count = 20 / avg = 7 B
+# strcache buffers: 1 (0) / strings = 21 / storage = 166 B / avg = 7 B
+# current buf: size = 8162 B / used = 166 B / count = 21 / avg = 7 B
 
-# strcache performance: lookups = 31 / hit rate = 35%
+# strcache performance: lookups = 32 / hit rate = 34%
 # hash-table stats:
-# Load=20/8192=0%, Rehash=0, Collisions=0/31=0%
-# Finished Make data base on Fri May 27 16:45:50 2022
+# Load=21/8192=0%, Rehash=0, Collisions=0/32=0%
+# Finished Make data base on Sat May 28 22:09:51 2022
 
  
